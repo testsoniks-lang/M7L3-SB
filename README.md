@@ -25,5 +25,5 @@ pytest
 ```
 
 ## Автор
-
+Mitin Daniil
 Kodland
