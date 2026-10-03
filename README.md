@@ -23,8 +23,8 @@ pip install pytest
 ```bash
 pytest
 ```
-
 ## Автор
+Шатманов Ален
 Дорофеев Владимир
 Лобанов Никита
 Kodland
